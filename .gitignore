@@ -1,0 +1,13 @@
+# ignore Emacs backup files
+*~
+
+# ignore Emacs auxiliary files
+.#*
+
+# ignore auxiliary (Emacs?) catalogs
+auto/
+
+
+
+# ignore spefic files
+outProg
